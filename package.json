@@ -1,0 +1,29 @@
+{
+  "name": "learning-node-api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerOuvina/Learning-Node-API-REST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FerOuvina/Learning-Node-API-REST/issues"
+  },
+  "homepage": "https://github.com/FerOuvina/Learning-Node-API-REST#readme",
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "semistandard": "^17.0.0"
+  },
+  "dependencies": {
+    "express": "4.18.2",
+    "zod": "3.22.4"
+  }
+}
